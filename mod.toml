@@ -1,0 +1,13 @@
+schemaVersion = 2
+format = "simoder.authoring"
+
+[metadata]
+id = "simoder.skip_intro"
+name = "Skip Intro"
+version = "1.0.0"
+author = "Simoder"
+description = "Automatically and unconditionally skips the SimCity startup intro movie."
+
+[scripts]
+language = "luau"
+entry = "scripts/main.luau"
